@@ -1,0 +1,132 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Cyclops",
+      "alterEgo": "Scott Summers",
+      "abilities": [
+        "Optic force blasts",
+        "Master tactician"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marvel Girl",
+      "alterEgo": "Jean Grey",
+      "abilities": [
+        "Telekinesis",
+        "Telepathy",
+        "Astral projection"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beast",
+      "alterEgo": "Hank McCoy",
+      "abilities": [
+        "Genius-level intellect",
+        "Animal-like physiology with enhanced physical attributes and sharp claws and teeth"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Angel",
+      "alterEgo": "Warren Worthington III",
+      "abilities": [
+        "Flight via feathered wings and hollow bones",
+        "Aerial adaptation",
+        "Enhanced physical prowess"
+      ]
+    },
+    {
+      "name": "Shley",
+      "alterEgo": "Aurore",
+      "abilities": [
+        "tempête",
+        " foudre",
+        " rire"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Riiz",
+      "alterEgo": "Aurore",
+      "abilities": [
+        "Pluie",
+        " rigolade"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Riiz",
+      "alterEgo": "Aurore",
+      "abilities": [
+        "Pluie",
+        " rigolade"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Riiz",
+      "alterEgo": "Aurore",
+      "abilities": [
+        "Pluie",
+        " rigolade"
+      ],
+      "id": 9
+    },
+    {
+      "name": "hldqf",
+      "abilities": [
+        "hqldfqqd"
+      ],
+      "alterEgo": "hjdhslf",
+      "id": 10
+    },
+    {
+      "name": "hldqf",
+      "abilities": [
+        "hqldfqqd"
+      ],
+      "alterEgo": "hjdhslf",
+      "id": 11
+    },
+    {
+      "name": "lol",
+      "abilities": [
+        "hjhldsqflqlfqf"
+      ],
+      "alterEgo": "hljqhd",
+      "id": 12
+    },
+    {
+      "name": "hlqsdf",
+      "abilities": [
+        "hfhqlsf",
+        " huhlkqdsf",
+        " hlqfdslf"
+      ],
+      "alterEgo": "hhdsqlfhl",
+      "id": 13
+    },
+    {
+      "name": "hjdfq",
+      "alterEgo": "hhdfqsl",
+      "abilities": [
+        "hjlhflqff"
+      ],
+      "id": 14
+    },
+    {
+      "name": "hjlqd",
+      "alterEgo": "hqjdfhsl",
+      "abilities": [
+        "hjqdhslf",
+        " kqhfjd",
+        " hfqsjdlfqs",
+        " qqsjd"
+      ],
+      "id": 15
+    }
+  ]
+}
